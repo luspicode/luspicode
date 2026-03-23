@@ -6,4 +6,4 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=luspicode&theme=tokyonight)
 
-![snake](https://github.com/luspicode/luspicode/blob/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/luspicode/luspicode/output/github-contribution-grid-snake.svg)
