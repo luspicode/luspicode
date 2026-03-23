@@ -6,6 +6,3 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=luspicode&theme=tokyonight)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp" />
-</p>
